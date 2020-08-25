@@ -1,2 +1,1 @@
-# leticiazani.github.io
-Site Ada Lovelace
+# https://leticiazani.github.io
